@@ -26,7 +26,7 @@ a, b, c = dimensions
 print(b)
 dimensions = (43, 5, 65, 3, 345, 6, 34, 234,)  # you can assign a new value
 main.show(dimensions)
-# dimensions[2] = 123 THIS CAN NOT BE DONE IN TUPLES
+#dimensions[2] = 123 THIS CAN NOT BE DONE IN TUPLES
 print(dimensions[2])
 
 print("\n")
