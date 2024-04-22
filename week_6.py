@@ -1,5 +1,6 @@
 with open("input.txt") as file:
     content = file.readlines()
+print(content)
 #for i in range(len(content)):
 #    content[i] = content[i].replace("\n", "")
 #print(content)
